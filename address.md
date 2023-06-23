@@ -17,3 +17,5 @@
 [ETCD](https://etcd.io/)
 
 [zookeeper](https://zookeeper.apache.org/)
+
+[MiKTex](https://miktex.org/download)
