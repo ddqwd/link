@@ -19,3 +19,4 @@
 [zookeeper](https://zookeeper.apache.org/)
 
 [MiKTex](https://miktex.org/download)
+[vdoc_book](https://vdoc.pub/documents/beginning-3d-game-programming-6c63k2ol5b30)
